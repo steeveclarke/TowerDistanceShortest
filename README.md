@@ -8,6 +8,7 @@ The string contains a comma separated list of numbers. Each pair of numbers is t
 The distance between 2 sets of coordinates (x1,y1) and (x2,y2) can be calculated as follows :-
 
 Dx = x1-x2 
+
 Dy = y1-y2
 
 Distance = Sqrt( (Dx * Dx) + (Dy * Dy) ) 
