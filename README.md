@@ -20,4 +20,4 @@ Example:
 
 String Input: ”50,50,54,79,90,100,54,60,10,12,1,1”
 
-Output: “Tower0(50,50)and Tower3(54,60)areclosesttoeachother”
+Output: “Tower0 (50,50) and Tower3 (54,60) are closest to each other”
